@@ -1,2 +1,2 @@
-# Air_Pollutants_and_Asthma_Sabina_Prochowski
-Big Data Final Project
+# Air Pollutants' Effect on Asthma Emergency Department Visits in NYC
+Big Data Final Project by Sabina Prochowski
